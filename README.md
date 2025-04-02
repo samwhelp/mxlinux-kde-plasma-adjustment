@@ -14,6 +14,9 @@
 | [Mx Linux Kde Plasma Note](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-kde-plasma) |
 
 
+> [Keybind Cheatsheet](https://samwhelp.github.io/mxlinux-kde-plasma-adjustment/read/cheatsheet/keybind.html)
+
+
 
 
 ## Subject

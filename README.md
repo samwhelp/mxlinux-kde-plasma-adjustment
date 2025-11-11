@@ -10,8 +10,9 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Mx Linux Kde Plasma Adjustment](https://samwhelp.github.io/mxlinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment) |
-| [Mx Linux Adjustment](https://samwhelp.github.io/mxlinux-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-adjustment) |
 | [Mx Linux Kde Plasma Note](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-kde-plasma) |
+| [Mx Linux Adjustment](https://samwhelp.github.io/mxlinux-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-adjustment) |
+
 
 
 > [Keybind Cheatsheet](https://samwhelp.github.io/mxlinux-kde-plasma-adjustment/read/cheatsheet/keybind.html)
@@ -31,7 +32,7 @@
 
 | Script |
 | ------ |
-| [Mx Linux Kde Plasma Config](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-plasma-config) |
+| [Mx Linux Kde Plasma Config](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 

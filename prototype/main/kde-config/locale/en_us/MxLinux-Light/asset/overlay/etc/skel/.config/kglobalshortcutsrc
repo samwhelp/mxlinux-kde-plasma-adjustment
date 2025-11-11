@@ -54,6 +54,7 @@ Decrease Opacity=Meta+;,none,Decrease Opacity of Active Window by 5 %
 Expose=Meta+Tab\tCtrl+F9,Ctrl+F9,Toggle Present Windows (Current desktop)
 ExposeAll=Meta+C\tCtrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Toggle Present Windows (All desktops)
 ExposeClass=Ctrl+F7,Ctrl+F7,Toggle Present Windows (Window class)
+Grid View=Meta+G,Meta+G,Toggle Grid View
 Increase Opacity=Meta+',none,Increase Opacity of Active Window by 5 %
 Invert Screen Colors=none,none,Invert Screen Colors
 Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,Kill Window
@@ -256,7 +257,7 @@ _launch=Alt+Shift+G,none,PCManFM-Qt File Manager
 
 [plasmashell]
 _k_friendly_name=Plasma
-#activate application launcher=Alt+F1\tMeta+Space,Meta\tAlt+F1,Activate Application Launcher
+activate application launcher=Alt+F1\tMeta+Space,Meta\tAlt+F1,Activate Application Launcher
 activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
 activate task manager entry 10=none,Meta+0,Activate Task Manager Entry 10
 activate task manager entry 2=Meta+2,Meta+2,Activate Task Manager Entry 2
@@ -267,7 +268,7 @@ activate task manager entry 6=Meta+6,Meta+6,Activate Task Manager Entry 6
 activate task manager entry 7=Meta+7,Meta+7,Activate Task Manager Entry 7
 activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
-activate widget 3=Alt+F1\tMeta+Space,none,Activate Application Launcher Widget
+#activate widget 3=Alt+F1\tMeta+Space,none,Activate Application Launcher Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=none,Meta+Ctrl+X,Automatic Action Popup Menu
 cycle-panels=Meta+Alt+P,Meta+Alt+P,Move keyboard focus between panels
